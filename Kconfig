@@ -1,5 +1,4 @@
 config RTL8710B
-bool "Realtek 8818GU USB WiFi"
 default y
 	tristate "Realtek 8818GU USB WiFi"
 	depends on USB
