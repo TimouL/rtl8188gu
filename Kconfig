@@ -1,4 +1,5 @@
 config RTL8710B
+default y
 	tristate "Realtek 8818GU USB WiFi"
 	depends on USB
 	---help---
